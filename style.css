@@ -1,4 +1,23 @@
-header {
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
     background-color: #424e61;
-    color: #FFFF
+    color: #FFFF;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.header-image {
+    width: 20%;
+}
+
+.header-list-item {
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
 }
