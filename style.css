@@ -12,6 +12,10 @@
     padding: 24px 0;
 }
 
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
 .header-image {
     width: 20%;
 }
@@ -41,4 +45,18 @@
 
 .img-school {
     width: 25%;
+}
+
+.student {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.student-image {
+    width: 120px;
+}
+
+.student-icons {
+    width: 24px;
 }
