@@ -68,3 +68,13 @@ body {
 .student-icons {
     width: 24px;
 }
+
+.footer {
+    background-color: black;
+    text-align: center;
+}
+
+.footer-img {
+    height: 60px;
+    padding: 12px 0;
+}
